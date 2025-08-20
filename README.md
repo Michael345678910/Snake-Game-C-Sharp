@@ -18,6 +18,8 @@ This project is a command-line version of the classic Snake game, developed in C
 
 # Usage Instructions:
 
+# File Pathway Tree/ File Directory:
+
 ## Installation & Setup:
 1. Clone this repository to your local machine. Ensure that C# 12 is installed inside of a runnable IDE (Such as Visual Studio Community 2022).
 2. Ensure that you have a .NET environment set up and downloaded, IE (.NET version 8.0 or later).
