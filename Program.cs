@@ -176,7 +176,7 @@ namespace SnakeGame
                 // Prepare game over and final score messages
                 string gameOverMsg = "      Game Over      ";
                 string finalScoreMsg = $"Final Score: {score}";
-                string restartMsg = "Press 'Space' to Exit or any key to Restart";
+                string restartMsg = "Press any key to Restart, or press 'Space' to Exit.";
 
                 // Helper method to center text horizontally
                 int CalculateCenteredPosition(int width, int messageLength)
@@ -393,3 +393,4 @@ namespace SnakeGame
         }
     }
 }
+
