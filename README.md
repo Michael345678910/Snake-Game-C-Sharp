@@ -13,13 +13,13 @@ This project is a command-line version of the classic Snake game, developed in C
 
 # Current Finished Product Images:
 
-### Instructions and Intro Message
+### Instructions and Intro Message:
 ![Snake Game – Instructions and Intro Message](ReadMe_File_Images/Snake_Game_Instructions+Intro_Message.png)
 
-### Game Board
+### Game Board:
 ![Snake Game – Console Gameplay Board](ReadMe_File_Images/Snake_Game_GUI_Game_Board.png)
 
-### Game Over Screen
+### Game Over Screen:
 ![Snake Game – Game Over Screen](ReadMe_File_Images/Snake_Game_Game_Over.png)
 
 ## Technologies Used:
